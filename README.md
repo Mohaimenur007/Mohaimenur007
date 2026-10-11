@@ -25,7 +25,7 @@
 | **Machine Learning & AI** | Exploring foundations & mathematics |
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.ai/api?username=Mohaimenur007&show_icons=true&theme=radical&hide_border=true" alt="Mohaimenur's GitHub Stats" />
 </p>
