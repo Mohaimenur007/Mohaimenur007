@@ -15,16 +15,14 @@
 * 📫 Let's connect on [LinkedIn](https://linkedin.com/in/mohaimenur-rahman-317b82251) or via email at **mohaimenurrahmanmahin6883@gmail.com**.
 
 ---
-
 ### 🛠️ Technical Arsenal
 
 | Domain | Core Technologies & Tools |
 | :--- | :--- |
-| **Programming & Querying** | Python, SQL, C++, C, JavaScript |
-| **Data Science & Analysis** | Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Jupyter |
-| **Data Engineering** | ETL Concepts, Databases, Git, GitHub, REST APIs |
-| **Machine Learning & AI** | TensorFlow, PyTorch *(learning)*, Supervised/Unsupervised Learning |
-
+| **Programming Languages** | Python, C++, C, JavaScript, SQL *(Learning)* |
+| **Data Science & Analysis** | Pandas, NumPy, Jupyter Notebook, Matplotlib *(Learning)* |
+| **Version Control & Tools** | Git, GitHub, VS Code |
+| **Machine Learning & AI** | Exploring foundations & mathematics |
 ---
 
 ### 📈 GitHub Stats
