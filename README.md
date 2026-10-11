@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mohaimenur Rahman Mahin 👋</h1>
-<h3 align="center">🚀 CSE Student at AIUB | Aspiring Machine Learning Engineer & Research Assistant</h3>
+<h3 align="center">🚀 CSE Student at AIUB | Aspiring Data Professional & Machine Learning Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mohaimenur-rahman-317b82251" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
@@ -10,20 +10,24 @@
 
 ### 👨‍💻 About Me
 * 🌱 I’m currently pursuing my **B.Sc. in Computer Science and Engineering (CSE)** at the **American International University-Bangladesh (AIUB)**.
-* 🤖 Deeply passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
-* 🎯 Focused on sharpening my algorithmic problem-solving skills and building impactful data-driven applications.
-* 📫 Reach out to me via [LinkedIn](https://linkedin.com/in/mohaimenur-rahman-317b82251) or drop an email at **mohaimenurrahmanmahin6883@gmail.com**.
+* 📊 Deeply passionate about transforming raw data into actionable insights and building scalable intelligent systems.
+* 🎯 Actively exploring roles across **Data Science, Data Analysis, Data Engineering, and Machine Learning Engineering**.
+* 📫 Let's connect on [LinkedIn](https://linkedin.com/in/mohaimenur-rahman-317b82251) or via email at **mohaimenurrahmanmahin6883@gmail.com**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
-* **Languages:** Python, C++, C, JavaScript, HTML/CSS
-* **AI / Machine Learning:** Scikit-Learn, Pandas, NumPy, TensorFlow *(learning)*
-* **Tools & Technologies:** Git, GitHub, VS Code, Jupyter Notebook
+### 🛠️ Technical Arsenal
+
+| Domain | Core Technologies & Tools |
+| :--- | :--- |
+| **Programming & Querying** | Python, SQL, C++, C, JavaScript |
+| **Data Science & Analysis** | Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Jupyter |
+| **Data Engineering** | ETL Concepts, Databases, Git, GitHub, REST APIs |
+| **Machine Learning & AI** | TensorFlow, PyTorch *(learning)*, Supervised/Unsupervised Learning |
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.ai/api?username=Mohaimenur007&show_icons=true&theme=radical&hide_border=true" alt="Mohaimenur's GitHub Stats" />
 </p>
